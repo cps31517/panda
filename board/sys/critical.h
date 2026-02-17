@@ -4,7 +4,7 @@
 
 #include <stdint.h>
 #include <stdbool.h>
-#include "stm32h7/inc/core_cm7.h"
+#include "board/stm32h7/inc/core_cm7.h"
 
 // ********************* Critical section helpers *********************
 void enable_interrupts(void);

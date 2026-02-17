@@ -1,4 +1,4 @@
-#include "faults.h"
+#include "sys/faults.h"
 #include "main_declarations.h"
 
 uint8_t fault_status = FAULT_STATUS_NONE;

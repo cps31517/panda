@@ -1,6 +1,6 @@
 #include "interrupts.h"
-#include "critical.h"
-#include "faults.h"
+#include "sys/critical.h"
+#include "sys/faults.h"
 #include "main_declarations.h"
 #include "timers.h"
 

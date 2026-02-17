@@ -1,7 +1,7 @@
 #include "timers.h"
 #include "interrupts.h"
 #include "registers.h"
-#include "critical.h"
+#include "sys/critical.h"
 #include "stm32h7/stm32h7_config.h"
 
 static void timer_init(TIM_TypeDef *TIM, int psc) {

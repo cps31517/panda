@@ -1,5 +1,5 @@
 #include "simple_watchdog.h"
-#include "faults.h"
+#include "sys/faults.h"
 #include "main_declarations.h"
 #include "timers.h"
 
